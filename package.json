@@ -1,7 +1,7 @@
 {
-  "name": "Shadow ghost bot",
+  "name": "Shadow Ghost bot",
   "version": "1.0.0",
-  "description": "Digital ghost WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
+  "description": "Digital Ghost WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -27,6 +27,6 @@
     "file-type": "^19.0.0",
     "form-data": "^4.0.1"
   },
-  "author": "𓆩 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 ghost𓆪",
+  "author": "𓆩 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 Ghost𓆪",
   "license": "ISC"
 }
